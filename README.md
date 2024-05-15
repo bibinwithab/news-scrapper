@@ -11,11 +11,18 @@ Web scrapper using cheerio and axios to scrape news from www.bbc.com/news
   - [Questions](#questions)
 
 ## Installation
-```git clone https://github.com/bibinwithab/news-scrapper.git```
+```
+git clone https://github.com/bibinwithab/news-scrapper.git
+```
 
 ## Usage
-```cd news-scrapper
+```
+cd news-scrapper
+```
+```
 npm install
+```
+```
 node .
 ```
 
