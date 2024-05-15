@@ -16,7 +16,8 @@ Web scrapper using cheerio and axios to scrape news from www.bbc.com/news
 ## Usage
 ```cd news-scrapper
 npm install
-node .```
+node .
+```
 
 
 ## Questions
